@@ -1,3 +1,4 @@
+# neural net brain dump
 ### 'you deal with artificial intelligence? isnt that the thing in sci fi movies when robots become sentient and revolt against you'
 i would hope not. 
 
