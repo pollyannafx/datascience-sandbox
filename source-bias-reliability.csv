@@ -1,4 +1,4 @@
-source_id,source_bias,reliability_score,reliability_threshold_diff,unreliability_threshold_diff
+source_id,source_bias,source_reliability,reliability_threshold_diff,unreliability_threshold_diff
 abc-news,-2.78,44.23,4.23,20.23
 associated-press,-2.57,44.78,4.78,20.78
 the-huffington-post,-10.7,38.39,-1.61,14.39
